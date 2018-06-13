@@ -1,2 +1,2 @@
 # CShackaton2018
-Sharing Squares (greatings)
+Sharing Squares (greetings)
